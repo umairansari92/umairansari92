@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Generative AI and Chatbot**
 
-- I'm studying in SMIT (Saylani Mass IT Training)
+- 👨‍🦰 I'm studying in SMIT (Saylani Mass IT Training)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, NodeJS,**
 
