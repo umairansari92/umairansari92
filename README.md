@@ -1,4 +1,3 @@
-<!-- Banner with animated SVG gradient (optional: replace with your custom SVG or keep hidden) -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=21D4FD,F7971E,FFD200&height=200&section=header&text=Umair%20Ahmed%20Ansari&fontSize=50&fontAlign=50&fontColor=fff" />
 </p>
@@ -11,7 +10,7 @@
   <a href="https://twitter.com/umairansari92">
     <img src="https://img.shields.io/twitter/follow/umairansari92?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="linkedin.com/in/umairansari92">
+  <a href="https://linkedin.com/in/umair-ansari-a55251b2">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://fb.com/munna.lalokhaiti">
@@ -28,6 +27,9 @@
   </a>
   <a href="https://dataversetechnologies.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-21D4FD?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://linktr.ee/umair.ansari.92">
+    <img src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 </p>
 
