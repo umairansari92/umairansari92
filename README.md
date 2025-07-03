@@ -1,9 +1,7 @@
 <!-- Banner with animated SVG gradient (optional: replace with your custom SVG or keep hidden) -->
-<!--
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=21D4FD,F7971E,FFD200&height=200&section=header&text=Umair%20Ahmed%20Ansari&fontSize=50&fontAlign=50&fontColor=fff" />
 </p>
--->
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=F7971E,F7971E,FFD200,21D4FD,21D4FD&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Umair+Ahmed;Full+Stack+Developer+from+Pakistan;Generative+AI+Enthusiast;Chatbot+%26+Web+App+Expert;Welcome+to+my+profile!" alt="Typing SVG" />
@@ -13,7 +11,7 @@
   <a href="https://twitter.com/umairansari92">
     <img src="https://img.shields.io/twitter/follow/umairansari92?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://linkedin.com/in/umair-ansari-a55251b2">
+  <a href="linkedin.com/in/umairansari92">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://fb.com/munna.lalokhaiti">
