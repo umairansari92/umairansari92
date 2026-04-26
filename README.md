@@ -1,78 +1,127 @@
+<!-- 🔥 HERO SECTION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=UMAIR%20AHMED%20ANSARI&fontSize=65&fontAlign=50&fontColor=21D4FD&animation=fadeIn" />
-</p>
-
-<p align="center" style="margin-top: -30px; margin-bottom: 25px;">
-  <font color="#94a3b8" size="4.5">Full Stack Engineer | GenAI Expert | Educator</font>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=260&section=header&text=Umair%20Ahmed%20Ansari&fontSize=60&fontColor=21D4FD&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=21D4FD&center=true&vCenter=true&width=800&lines=Crafting+Scalable+SaaS+Solutions;MERN+Stack+%26+Next.js+Architect;GenAI+%26+LLM+Integration+Specialist;Building+Future-Ready+Applications" alt="Typing SVG" />
+  <b style="font-size:18px;">Building AI-Powered SaaS Products That Solve Real Problems</b><br>
+  <span style="color:#94a3b8;">Full Stack Engineer • GenAI Builder • Educator</span>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/umair-ansari-a55251b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dataversetechnologies.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:umair.ansari.92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/umairansari92"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=21D4FD&center=true&vCenter=true&width=750&lines=I+Turn+Ideas+Into+Production-Ready+Products;AI+%2B+MERN+%2B+Next.js+Specialist;Shipping+Faster+with+AI+Assisted+Development;Building+Tools+That+Actually+Get+Used" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=umairansari92&label=PROFILE+VIEWS&color=21D4FD&style=flat-square" alt="umairansari92" />
+  <a href="https://linkedin.com/in/umair-ansari-a55251b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dataversetechnologies.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:umair.ansari.92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-### 🏛️ Executive Summary
+## ⚡ Why I’m Different
 
-I am a results-driven **Full Stack Web Developer** and **Government Educationist** with a career spanning since 2009. My expertise lies in architecting high-performance web applications using the **MERN Stack** and **Next.js**, with a heavy focus on **SaaS development** and **GenAI integration**. 
-
-- 🚀 **Professional Identity:** Founder of **Dataverse Technologies**.
-- 🛠️ **Workflow:** High-velocity development using **"Vibe Coding"** (AI-assisted architecture).
-- 🎯 **Mission:** Bridging the gap between traditional education and cutting-edge tech.
-
----
-
-### 💻 Technical Ecosystem
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      **Frontend & Styling**<br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css&theme=dark" />
-    </td>
-    <td align="center" width="50%">
-      **Backend & Infrastructure**<br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,vercel,git&theme=dark" />
-    </td>
-  </tr>
-</table>
+- 🧠 I don’t just code — I design **scalable systems**
+- 🤖 I use AI to **automate real workflows**, not just demos  
+- 🚀 I ship fast using AI-assisted development  
+- 🎯 I focus on **impact, not just features**  
 
 ---
 
-### 🌟 High-Impact Projects
+## 🏛️ What I Do
 
-| Project | Core Technology | Description |
-| :--- | :--- | :--- |
-| **[CVify Pro](https://cvify-pro.vercel.app)** | Next.js, AI, Tailwind | A premium, AI-driven platform for ATS-optimized resumes. |
-| **[LifeSync Hub](https://github.com/umairansari92)** | MERN Stack | An all-in-one productivity suite for personal life management. |
-| **[Dataverse Technologies](https://dataversetechnologies.vercel.app)** | Next.js, Vercel | Professional portfolio and freelance agency hub. |
+I build **production-ready SaaS applications** powered by modern web technologies and Generative AI.
+
+- ⚡ MERN Stack & Next.js architecture  
+- 🤖 LLM & AI integrations  
+- 🧩 SaaS product design & scaling  
+- 🎯 Turning complex ideas into simple products  
 
 ---
 
-### 📊 Performance Metrics
+## 🚀 Featured Projects
+
+### 🔹 CVify Pro  
+AI-powered resume platform focused on hiring success  
+
+- ⚡ Next.js + AI integration  
+- 🎯 ATS optimization + recruiter insights  
+- 💡 Helps users stand out in hiring  
+
+🔗 https://cvify-pro.vercel.app  
+
+---
+
+### 🔹 LifeSync Hub  
+All-in-one productivity system  
+
+- 🧠 MERN architecture  
+- 📊 Personal workflow management  
+- 🚀 Replaces multiple tools  
+
+---
+
+### 🔹 Dataverse Technologies  
+Freelance + product platform  
+
+- 🌐 Built with Next.js  
+- 💼 Real client work showcase  
+
+🔗 https://dataversetechnologies.vercel.app  
+
+---
+
+## 📈 What I’m Building Right Now
+
+- AI Hiring Decision Engine  
+- Smart Resume Scoring System  
+- AI-powered productivity tools  
+
+---
+
+## 🧠 Core Philosophy
+
+> Anyone can build features. I build systems that create value.
+
+---
+
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairansari92&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="185" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umairansari92&theme=tokyonight&hide_border=true" height="185" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,nodejs,express,mongodb,python,git,vercel&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umairansari92&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umairansari92&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairansari92&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairansari92&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
 </p>
 
 ---
 
-### 🏆 Recognitions
+## 🏆 Recognition
 
-* **Generative AI & Chatbot Specialization** (SMIT) - *Score: 78%http://googleusercontent.com/image_generation_content/0
+- 🎓 Generative AI & Chatbot Specialization (SMIT)
+
+---
+
+## 📬 Let’s Connect
+
+If you're building something interesting or want to collaborate:
+
+📩 umair.ansari.92@gmail.com  
+🌐 https://dataversetechnologies.vercel.app  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=umairansari92&label=Profile%20Views&color=21D4FD&style=flat-square" />
+</p>
