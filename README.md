@@ -1,16 +1,24 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=220&section=header&text=UMAIR%20AHMED%20ANSARI&fontSize=65&fontAlign=50&fontColor=21D4FD&desc=Full%20Stack%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Educator&descSize=22&descAlign=50&descColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=250&section=header&text=UMAIR%20AHMED%20ANSARI&fontSize=60&fontAlign=50&fontColor=21D4FD&desc=Full%20Stack%20Engineer%20%7C%20GenAI%20Expert%20%7C%20Educator&descSize=20&descAlign=50&descColor=ffffff&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3500&pause=1000&color=21D4FD&center=true&vCenter=true&width=800&lines=Crafting+Scalable+SaaS+Solutions;MERN+Stack+%26+Next.js+Architect;GenAI+%26+LLM+Integration+Specialist;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1000&color=21D4FD&center=true&vCenter=true&width=800&lines=Crafting+Scalable+SaaS+Solutions;MERN+Stack+%26+Next.js+Architect;GenAI+%26+LLM+Integration+Specialist;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/umair-ansari-a55251b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://dataversetechnologies.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="mailto:umair.ansari.92@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/umairansari92"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/umair-ansari-a55251b2">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://dataversetechnologies.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>&nbsp;
+  <a href="mailto:umair.ansari.92@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>&nbsp;
+  <a href="https://twitter.com/umairansari92">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
 </p>
 
 <p align="center">
@@ -23,26 +31,21 @@
 
 I am a results-driven **Full Stack Web Developer** and **Government Educationist** with a career spanning since 2009. My expertise lies in architecting high-performance web applications using the **MERN Stack** and **Next.js**, with a heavy focus on **SaaS development** and **GenAI integration**. 
 
-- 🚀 **Professional Identity:** Founder of **Dataverse Technologies**.
-- 🛠️ **Workflow:** High-velocity development using **"Vibe Coding"** (AI-assisted architecture).
-- 🎯 **Mission:** Bridging the gap between traditional education and cutting-edge tech.
+* 🚀 **Professional Identity:** Founder of **Dataverse Technologies**.
+* 🛠️ **Workflow:** High-velocity development using **"Vibe Coding"** (AI-assisted architecture).
+* 🎯 **Mission:** Bridging the gap between traditional education and cutting-edge tech.
 
 ---
 
 ### 💻 Technical Ecosystem
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      **Frontend & Styling**<br>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css&theme=dark" />
-    </td>
-    <td align="center" width="50%">
-      **Backend & Infrastructure**<br>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,vercel,git&theme=dark" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+| **Frontend & Styling** | **Backend & Infrastructure** |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,ts,html,css&theme=dark" /> | <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,vercel,git&theme=dark" /> |
+
+</div>
 
 ---
 
@@ -59,21 +62,21 @@ I am a results-driven **Full Stack Web Developer** and **Government Educationist
 ### 📊 Performance Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umairansari92&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="185" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=umairansari92&theme=tokyonight&hide_border=true" height="185" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umairansari92&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=umairansari92&theme=tokyonight&hide_border=true" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairansari92&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umairansari92&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="140" />
 </p>
 
 ---
 
 ### 🏆 Recognitions
 
-* **Generative AI & Chatbot Specialization** (SMIT) - *Score: 78%*
-* **Modern Web Application Development** - *Graduated March 2026*
-* **Government School Teacher** - *Impactful Educator since 2009*
+* 🎓 **Generative AI & Chatbot Specialization** (SMIT) - *Score: 78%*
+* 💻 **Modern Web Application Development** - *Graduated March 2026*
+* 🏫 **Government School Teacher** - *Impactful Educator since 2009*
 
 ---
 
