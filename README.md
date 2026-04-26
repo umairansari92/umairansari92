@@ -4,75 +4,78 @@
 </p>
 
 <p align="center">
-  <b style="font-size:18px;">Building AI-Powered SaaS Products That Solve Real Problems</b><br>
+  <b style="font-size:18px;">I Build AI-Powered Products That Solve Real Problems</b><br>
   <span style="color:#94a3b8;">Full Stack Engineer • GenAI Builder • Educator</span>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=21D4FD&center=true&vCenter=true&width=750&lines=I+Turn+Ideas+Into+Production-Ready+Products;AI+%2B+MERN+%2B+Next.js+Specialist;Shipping+Faster+with+AI+Assisted+Development;Building+Tools+That+Actually+Get+Used" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=21D4FD&center=true&vCenter=true&width=750&lines=From+Idea+to+Production;AI+%2B+MERN+%2B+Next.js+Specialist;Shipping+Faster+with+AI;Building+Tools+That+People+Actually+Use" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/umair-ansari-a55251b2"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://dataversetechnologies.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/umairansari92/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://dataversetechnologies.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
   <a href="mailto:umair.ansari.92@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://wa.me/923138624722"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 ---
 
-## ⚡ Why I’m Different
+## ⚡ Why I Stand Out
 
-- 🧠 I don’t just code — I design **scalable systems**
-- 🤖 I use AI to **automate real workflows**, not just demos  
+- 🧠 I don’t just write code, I build **complete systems**
+- 🤖 I integrate AI into **real-world workflows**
 - 🚀 I ship fast using AI-assisted development  
-- 🎯 I focus on **impact, not just features**  
+- 🎯 I focus on **results, not just features**
 
 ---
 
 ## 🏛️ What I Do
 
-I build **production-ready SaaS applications** powered by modern web technologies and Generative AI.
+I create **scalable SaaS applications** powered by modern web technologies and Generative AI.
 
-- ⚡ MERN Stack & Next.js architecture  
-- 🤖 LLM & AI integrations  
-- 🧩 SaaS product design & scaling  
-- 🎯 Turning complex ideas into simple products  
+- ⚡ MERN Stack & Next.js development  
+- 🤖 AI & LLM integrations  
+- 🧩 SaaS product architecture  
+- 🎯 Turning ideas into real, usable products  
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Products
 
 ### 🔹 CVify Pro  
-AI-powered resume platform focused on hiring success  
+👉 https://cvifypro.vercel.app/
 
-- ⚡ Next.js + AI integration  
-- 🎯 ATS optimization + recruiter insights  
-- 💡 Helps users stand out in hiring  
+AI-powered resume platform designed to improve hiring success.
 
-🔗 https://cvify-pro.vercel.app  
+- ⚡ Built with Next.js + AI  
+- 🎯 ATS-optimized resume generation  
+- 💡 Helps users stand out to recruiters  
 
 ---
 
 ### 🔹 LifeSync Hub  
-All-in-one productivity system  
+👉 https://lifesynchub.vercel.app/
 
-- 🧠 MERN architecture  
-- 📊 Personal workflow management  
-- 🚀 Replaces multiple tools  
+A complete personal productivity system.
+
+- 🧠 MERN Stack architecture  
+- 📊 Task and life management  
+- 🚀 Replaces multiple productivity tools  
 
 ---
 
-### 🔹 Dataverse Technologies  
-Freelance + product platform  
+### 🔹 DataVerse Technologies  
+👉 https://dataversetechnologies.vercel.app/
+
+Portfolio + freelance platform.
 
 - 🌐 Built with Next.js  
-- 💼 Real client work showcase  
-
-🔗 https://dataversetechnologies.vercel.app  
+- 💼 Showcases real-world work and services  
 
 ---
 
-## 📈 What I’m Building Right Now
+## 📈 Currently Building
 
 - AI Hiring Decision Engine  
 - Smart Resume Scoring System  
@@ -80,9 +83,9 @@ Freelance + product platform
 
 ---
 
-## 🧠 Core Philosophy
+## 🧠 Mindset
 
-> Anyone can build features. I build systems that create value.
+> I don’t build projects. I build products that solve real problems.
 
 ---
 
@@ -107,18 +110,11 @@ Freelance + product platform
 
 ---
 
-## 🏆 Recognition
+## 📬 Contact
 
-- 🎓 Generative AI & Chatbot Specialization (SMIT)
-
----
-
-## 📬 Let’s Connect
-
-If you're building something interesting or want to collaborate:
-
-📩 umair.ansari.92@gmail.com  
-🌐 https://dataversetechnologies.vercel.app  
+- 📧 Email: umair.ansari.92@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/umairansari92/  
+- 📱 WhatsApp: https://wa.me/923138624722  
 
 ---
 
